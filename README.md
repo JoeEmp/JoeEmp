@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 一起看线下脱口秀
 
 ### 挑食鬼清单
-<font color=orange>主食</font>
+🍳<font color=orange>主食</font>
 - 辣的
 - 酸菜
 - 黄鳝
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 椒类
 - 狗肉
 
-<font color=green>水果</font>
+🥗<font color=green>水果</font>
 - 榴莲
 - 山竹
 - 黄皮
