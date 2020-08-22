@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JoeEmp/JoeEmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### To do list
+- 一包玫瑰谷豆子
+- 一起去easy coffce
+- 一起看线下脱口秀
+
+### 挑食鬼清单
+<font color=orange>主食</font>
+- 辣的
+- 酸菜
+黄鳝
+海鲜(虾可以但一般不吃)
+椒类
+狗肉
+<font color=green>水果</font>
+- 榴莲
+- 山竹
+- 黄皮
+- 人参果
+- 车厘子
+- 木瓜
