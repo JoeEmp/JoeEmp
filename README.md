@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 海鲜(虾可以但一般不吃)
 - 椒类
 - 狗肉
+
 <font color=green>水果</font>
 - 榴莲
 - 山竹
