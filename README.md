@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 一起去easy coffce
 - 一起看线下脱口秀
 - 练腹肌(3个月内完成)
+- 年底一起吃酒心巧克力
 
 ### 挑食鬼清单
 🍳<font color=orange>主食</font>
