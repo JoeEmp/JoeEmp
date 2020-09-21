@@ -19,6 +19,15 @@ Here are some ideas to get you started:
 - 一起看线下脱口秀
 - 练腹肌(3个月内完成)
 - 年底一起吃酒心巧克力
+- 周边游
+
+### 惩罚清单
+犯错惩罚制度
+一般：不理你半个小时
+轻微：不理你一天
+中等：跪榴莲
+严重：头上放水跪键盘，拍照发朋友圈
+毁灭级：rm -rf this file
 
 ### 挑食鬼清单
 🍳<font color=orange>主食</font>
@@ -30,6 +39,8 @@ Here are some ideas to get you started:
 - 狗肉
 - 内脏(猪肝，猪红可以)
 - 特殊部位（鸡脖、鸭脖、鸡屁股、鸭屁股）
+- 牛油果
+- 凤爪
 
 🥗<font color=green>水果</font>
 - 榴莲
