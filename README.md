@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ### 惩罚清单
 犯错惩罚制度
-一般：不理你半个小时
-轻微：不理你一天
-中等：跪榴莲
-严重：头上放水跪键盘，拍照发朋友圈
-毁灭级：rm -rf this file
+- 一般：不理你半个小时
+- 轻微：不理你一天
+- 中等：跪榴莲
+- 严重：头上放水跪键盘，拍照发朋友圈
+- 毁灭级：rm -rf this file
 
 ### 挑食鬼清单
 🍳<font color=orange>主食</font>
