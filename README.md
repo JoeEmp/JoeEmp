@@ -13,6 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```python
+class mine():
+    def __init__(self, name='小黑猫'):
+        self.name = name
+        super().__init__()
+
+    def __add__(self, other):
+        if '小白猫' in other:
+            return self.name + "和" + other + ""
+        else:
+            return self.name+'只和小白猫一起，别的猫走开'
+print(mine()+"温柔体贴小白猫")
+```
+
 ### To do list
 - 一包玫瑰谷豆子
 - 一起去easy coffce
