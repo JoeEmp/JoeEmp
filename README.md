@@ -39,9 +39,6 @@ print(mine()+"温柔体贴小白猫")
 
 [一些自动化测试的自我理解](https://testerhome.com/topics/36883)
 
-[po+dd的ui自动化demo](https://www.jianshu.com/p/de3c6635193c)
-
-[快速开始-接口测试](https://www.jianshu.com/p/6d8c4ddd6f4c)
 
 ### To do list
 - 和猫放烟花（最好是海边）
