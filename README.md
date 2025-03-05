@@ -29,6 +29,10 @@ print(mine()+"温柔体贴小白猫")
 
 ### 近期blog(limit 5)
 
+[和大模型沟通](https://blacksheep42.cn/posts/13-post/13-post/)
+
+[AI可以怎么帮我](https://blacksheep42.cn/posts/12-post/)
+
 [在信息大爆炸时代下的自处](https://mp.weixin.qq.com/s/F9SBZsgDxNGfCO8oUS6uLA)
 
 [我的性能测试工作流程](https://testerhome.com/topics/40959)
