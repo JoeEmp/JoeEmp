@@ -27,7 +27,9 @@ class mine():
 print(mine()+"温柔体贴小白猫")
 ```
 
-### 近期blog(limit 5)
+### 近期blog(limit 6)
+
+[用私有化部署AI做API测试](https://blacksheep42.cn/posts/14-post/14-post/)
 
 [和大模型沟通](https://blacksheep42.cn/posts/13-post/13-post/)
 
